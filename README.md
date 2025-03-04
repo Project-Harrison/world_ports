@@ -65,6 +65,10 @@ For the city `"Aalborg"`, the script outputs:
 Port found: {'CITY': 'Aalborg', 'STATE': 'North Jutland', 'COUNTRY': 'Denmark', 'LATITUDE': 57.05, 'LONGITUDE': 9.92, 'OFFSET': 1, 'DST': False}
 ```
 
+## There may be errors!
+
+This dataset may contain errors! If you find an error, feel free to Github issues page.
+
 ## Use Cases
 
 This dataset can be utilized in various domains, for example:
