@@ -25,6 +25,8 @@ MARPOL Annex VI establishes global limits on air pollution from ships. Two key r
 - **Regulation 14 (SOx and PM ECAs)**: Limits the sulfur content of marine fuel used in designated ECAs, reducing sulfur oxides (SOx) and particulate matter (PM) emissions. Ports inside these ECAs must comply with stricter fuel sulfur limits.
 - **Regulation 13 (NOx ECAs)**: Regulates nitrogen oxides (NOx) emissions from marine diesel engines. Ports inside NOx ECAs require stricter compliance with Tier III NOx emission standards.
 
+** Important: Due that some port coordinates are on land a 50 nautical mile buffer is placed around the ECA areas. Therefore, ports near the ECA may be included. 
+
 ### Example JSON Entries
 ```json
 [
